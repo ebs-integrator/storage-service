@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Victor Elceaninov & Dorin Musteata",
     author_email="victor.elceaninov@ebs-integrator.org, dorin.musteata@ebs-integrator.org",
-    description="Storage Service is a Django package that help to work with model.",
+    description="Storage Service is a Django + DRF package that help to work with model.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://git2.devebs.net/ebs-backend/python/packages/storage-service",
