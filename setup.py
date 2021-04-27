@@ -5,15 +5,15 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="storage-service",
-    version="0.0.1",
+    version="0.0.2",
     author="Victor Elceaninov & Dorin Musteata",
     author_email="victor.elceaninov@ebs-integrator.org, dorin.musteata@ebs-integrator.org",
     description="Storage Service is a Django + DRF package that help to work with model.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://git2.devebs.net/ebs-backend/python/packages/storage-service",
+    url="https://github.com/ebs-integrator/storage-service",
     project_urls={
-        "Bug Tracker": "https://git2.devebs.net/ebs-backend/python/packages/storage-service/-/issues",
+        "Bug Tracker": "https://github.com/ebs-integrator/storage-service/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
